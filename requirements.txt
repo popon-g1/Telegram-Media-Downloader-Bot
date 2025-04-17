@@ -1,0 +1,4 @@
+## Requirements 🛠️
+- Python 3.8+
+- FFmpeg (for audio conversion)
+- Telegram Bot Token
