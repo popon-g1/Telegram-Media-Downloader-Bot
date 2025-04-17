@@ -18,5 +18,5 @@ A Python bot that downloads media from TikTok and YouTube directly to your local
 ## Installation 📥
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/telegram-media-downloader.git
+   git clone https://github.com/popon-g1/Telegram-Media-Downloader-Bot/.git
    cd telegram-media-downloader
