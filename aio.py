@@ -21,7 +21,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TELEGRAM_TOKEN = "7644837031:AAGytkcscIPWyNxxVT63PPZ0GobFOvQxz9E"  # Replace with your actual token
+TELEGRAM_TOKEN = "xx"  # Replace with your actual token
 DOWNLOAD_FOLDER = "downloaded_media"
 
 # Create download folder if it doesn't exist
